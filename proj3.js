@@ -17,7 +17,6 @@ function mousePressed() {
  
 // key pressed logic
 
-
 function keyPressed () {
   if (keyPressed == "d") {
     noStroke(0);
